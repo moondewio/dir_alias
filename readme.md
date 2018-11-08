@@ -15,7 +15,7 @@ alias bar="echo 'bar'"
 ## Installation
 
 ```
-$ antigen bundle gillchristian/dir_alias
+$ antigen bundle moondewio/dir_alias
 ```
 
 ## Acknowledgements
