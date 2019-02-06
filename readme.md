@@ -10,7 +10,7 @@ alias foo='echo "foo"'
 alias bar="echo 'bar'"
 ```
 
-**IMPORTANT**: the file should only contain alias definitions, onle per line.
+**IMPORTANT**: the file should only contain alias definitions, one per line.
 
 ## Installation
 
